@@ -37,15 +37,15 @@ analytics:
   ga_prod: ''
 
 # Social media accounts.
-twitter: 'MyTwitterAccount'
+twitter: 'NSOMALTA'
 
 # Sticky share buttons (facebook, twitter and email)
 #sharethis_property: '5d279253faeee40012f195e1'
 
 # Replace the email addresses below.
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
+  questions: ivan.salomone@gov.mt
+  suggestions: charles.l.said@gov.mt
   functional: test@example.com
 
 # Github Repo for Data
@@ -64,8 +64,8 @@ exclude: [vendor, scripts, remotedata]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Australia
-  adjective: Australian
+  name: Malta
+  adjective: Maltese
 
 # Optionally uncomment and update the settings below to control the frontpage heading and instructions.
 #frontpage_heading: Australian data for Sustainable Development Goal indicators
@@ -100,9 +100,9 @@ menu:
 footer_menu:
   - path: mailto:my-email-address@example.com
     translation_key: menu.contact_us
-  - path: https://twitter.com/MyTwitterAccount
+  - path: https://twitter.com/NSOMALTA
     translation_key: general.twitter
-  - path: https://facebook.com/MyFacebookAccount
+  - path: https://www.facebook.com/nsomalta
     translation_key: general.facebook
   - path: /cookies
     translation_key: menu.cookies
