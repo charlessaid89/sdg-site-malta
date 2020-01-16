@@ -98,7 +98,7 @@ menu:
     translation_key: menu.faq
 
 footer_menu:
-  - path: mailto:my-email-address@example.com
+  - path: mailto:it.nso@gov.mt
     translation_key: menu.contact_us
   - path: https://twitter.com/NSOMALTA
     translation_key: general.twitter
