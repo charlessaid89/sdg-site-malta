@@ -15,7 +15,8 @@ remote_theme: open-sdg/open-sdg@master
 # Replace this title as needed.
 title: Indicators For The Sustainable Development Goals
 # Replace the baseurl with the name of this repository.
-baseurl: "/open-sdg-site-starter"
+baseurl: "/sdg-site-malta"
+# Code changed 20/1/2020: baseurl: "/open-sdg-site-starter"
 url: ""
 data_dir: data
 environment: staging
@@ -50,7 +51,8 @@ email_contacts:
 
 # Github Repo for Data
 # Replace this value as needed.
-repo_name: open-sdg-data-starter
+# code changed 20/1/2020 repo_name: open-sdg-data-starter
+repo_name: sdg-site-malta
 branch: develop
 # Replace this value as needed.
 org_name: my-github-org
