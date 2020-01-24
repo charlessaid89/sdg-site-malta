@@ -55,7 +55,8 @@ email_contacts:
 repo_name: sdg-data-malta
 branch: develop
 # Replace this value as needed.
-org_name: my-github-org
+org_name: charlessaid89
+# org_name: my-github-org
 
 # Build settings
 markdown: kramdown
