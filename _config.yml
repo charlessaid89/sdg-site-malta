@@ -15,7 +15,7 @@ remote_theme: open-sdg/open-sdg@master
 # Replace this title as needed.
 title: Indicators For The Sustainable Development Goals
 # Replace the baseurl with the name of this repository.
-baseurl: "/sdg-site-malta"
+baseurl: "/sdg-data-malta"
 # Code changed 20/1/2020: baseurl: "/open-sdg-site-starter"
 url: ""
 data_dir: data
