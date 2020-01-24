@@ -52,7 +52,7 @@ email_contacts:
 # Github Repo for Data
 # Replace this value as needed.
 # code changed 20/1/2020 repo_name: open-sdg-data-starter
-repo_name: sdg-site-malta
+repo_name: sdg-data-malta
 branch: develop
 # Replace this value as needed.
 org_name: my-github-org
