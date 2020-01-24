@@ -18,8 +18,8 @@ environment: production
 remote_data_prefix: "https://charlessaid89.github.io/sdg-data-malta"
 
 remote_translations:
-  - 'https://charlessaid89.github.io/sdg-translations/translations-0.7.0.json'
-#  - 'https://open-sdg.github.io/sdg-translations/translations-0.7.0.json'
+#  - 'https://charlessaid89.github.io/sdg-translations/translations-0.7.0.json'
+  - 'https://open-sdg.github.io/sdg-translations/translations-0.7.0.json'
 
 analytics:
   # For production, you likely want to enter a Google Analytics code below.
