@@ -22,7 +22,10 @@ data_dir: data
 environment: staging
 # Replace "open-sdg" with the name of your GitHub organization, and
 # "open-sdg-data-starter" with the name of your data repository.
-remote_data_prefix: "https://open-sdg.github.io/open-sdg-data-starter"
+# remote_data_prefix: "https://open-sdg.github.io/open-sdg-data-starter"
+remote_data_prefix: "https://charlessaid89.github.io/sdg-data-malta"
+#remote_translations:
+#  - https://charlessaid89.github.io/sdg-translations/translations-0.8.1.json
 remote_translations:
   - https://open-sdg.github.io/sdg-translations/translations-0.8.1.json
 
